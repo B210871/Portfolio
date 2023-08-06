@@ -65,7 +65,7 @@ import MybookShow from "../assets/portfolio/MybookShowW.png"
                     Portfolio
                 </p>
                 <p className='py-6 '>
-                   Check out some of my work right here 
+                   Check out some of my work right here. 
                 </p>
             </div>
 
