@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.7599c12f.css",
+    "main.js": "/Portfolio/static/js/main.be08baef.js",
+    "static/media/MybookShowW.png": "/Portfolio/static/media/MybookShowW.f6d1b7e6bb9f91ef9020.png",
+    "static/media/API.png": "/Portfolio/static/media/API.b3ac59b97a0e6f48585c.png",
+    "static/media/ZomatoW.png": "/Portfolio/static/media/ZomatoW.f184b104e30bfcd66c89.png",
+    "static/media/RealTimeChat.png": "/Portfolio/static/media/RealTimeChat.56208bf0f96e5d5134d0.png",
+    "static/media/TaskyW.png": "/Portfolio/static/media/TaskyW.15cdba764f3076e3e1cd.png",
+    "static/media/heroImage.jpg": "/Portfolio/static/media/heroImage.42ce07449b6a586ac295.jpg",
+    "static/media/Responsive_nav.png": "/Portfolio/static/media/Responsive_nav.662d78f33b2a3e2be75b.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.7599c12f.css.map": "/Portfolio/static/css/main.7599c12f.css.map",
+    "main.be08baef.js.map": "/Portfolio/static/js/main.be08baef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7599c12f.css",
+    "static/js/main.be08baef.js"
+  ]
+}
