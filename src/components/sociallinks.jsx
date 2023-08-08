@@ -57,7 +57,7 @@ const Sociallinks = () => {
                 </>
 
             ),
-            href: '/abhay.pdf.pdf',
+            href: '/resume.pdf',
             style: 'rounded-br-md',
             download: true,
 
@@ -79,11 +79,11 @@ const Sociallinks = () => {
                 <ul>
                     {links.map(({ id, child, href, style, download }) => (
                         <li key={id} className={`flex justify-between items-center w-40 h-14 px-4 ml-[-100px] hover:ml-[-10px] duration-300 hover:rounded-md bg-gray-500 ${style}`}>
-                            <a href={href} 
+                            <a href={href}
                                 className='flex justify-between items-center w-full text-white'
                                 download={download}
                                 target='_blank'
-                                rel="noreferrer" 
+                                rel="noreferrer"
 
 
                             >
